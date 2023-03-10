@@ -32,3 +32,6 @@ img.octocat {
 h1{
     text-align: center;
 }
+
+git config --global user.name "ivan palma"
+git config --global user.email jeremias.palma2022@gmail.com
